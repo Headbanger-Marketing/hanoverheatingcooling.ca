@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanoverheatingcooling.ca/sitemap-index.xml
